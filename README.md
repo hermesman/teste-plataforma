@@ -2,7 +2,7 @@
 
 Testes realizados em Python com Selenium Webdriver utilizando o Behave.
 
-Funcionalidades disponivel em Português.
+Funcionalidades disponiveis em Português.
 
 Projeto desenvolvido no Pycharm versão community
 
