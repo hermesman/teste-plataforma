@@ -1,7 +1,8 @@
 # teste-plataforma
 
-Testes realizados em Python com Selenium Webdriver utilizando o Behave
-Funcionalidades disponivel em Português
+Testes realizados em Python com Selenium Webdriver utilizando o Behave.
+
+Funcionalidades disponivel em Português.
 
 Projeto desenvolvido no Pycharm versão community
 
